@@ -1,6 +1,8 @@
 Voici notre projet du jour contenant:
 
-les collaborateurs: mahefa,mbola
+les collaborateurs: RAKOTOMALALA Andriambolanoro
+                    RAKOTOMANDIMBY Mahefa
+ pseudo slack :mbola, mahefa
 
 00_hello.rb : Programme qui affiche Bonjour
 01_pyramids.rb : Programme qui affiche un pyramide en forme de losange
